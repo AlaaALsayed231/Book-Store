@@ -1,0 +1,29 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+}
+.navbar{
+    font-size: 1.3rem;
+    box-shadow: 0 2px 5px #3291A5;
+    opacity: .8;
+}
+.nav-link{
+    font-size: 1.3rem;
+    margin-right: 10px;
+}
+header{
+    background-image:linear-gradient(hsla(190, 53%, 42%, 0.697) ,hsla(190, 53%, 42%, 0.697)) , url("../images/mountains.jpg");
+   min-height: 100vh;
+   background-position: center;
+background-size: cover;
+}
+
+/* button{
+    width: 100%;
+} */
+.person img{
+    margin-top: -40px;
+}
+.person .info{
+    text-align: justify;
+}
